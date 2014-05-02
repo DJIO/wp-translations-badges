@@ -4,7 +4,8 @@ Donate link: http://gittip.com/tripflex
 Tags: wp-translations, badges, shortcode, widget
 Requires at least: 3.8
 Tested up to: 3.9
-Stable tag: 1.1
+Stable tag: 1.0.2
+License: GPLv2 or later
 
 Display WP-Translations badges on your website with Shortcode or Widget
 
@@ -49,7 +50,11 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 == Changelog ==
 
-**1.1 (April 30, 2014)**
+**1.0.2 (May 2, 2014)**
+Fix styling props @myles
+Added links to GH and Transifex props @benhuson
+
+**1.0.1 (April 30, 2014)**
 Forked and Ready to Badge
 
 **1.0 (April 29, 2014)**
