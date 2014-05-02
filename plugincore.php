@@ -3,7 +3,7 @@
  * @package   Wp_Translations_Badges
  * @author    Myles McNamara <myles@smyl.es>, fxbenard <fxb@wp-translations.org>
  * @license   GPL-2.0+
- * @link      http://wp-translations.org
+ * @link      http://smyl.es
  * @copyright 2014 Myles McNamara, fxbenard
  *
  * @wordpress-plugin
@@ -11,12 +11,12 @@
  * Plugin URI:  http://github.com/wp-translations/wp-translations-badges
  * Description: Display WP-Translations badges on your site with Shortcode or Widget
  * Version:     1.00
- * Author:      Myles McNamara
- * Author URI:  http://smyl.es
+ * Author:      FxB
+ * Author URI:  http://wp-translations.org
  * Text Domain: wp-translations-badges
  * License:     GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
- * GitHub Plugin URI: wp-translations/wp-translations-badges
+ * GitHub Plugin URI: https://github.com/WP-Translations/wp-translations-badges
  * GitHub Branch:   master
  * Domain Path: /languages
  */

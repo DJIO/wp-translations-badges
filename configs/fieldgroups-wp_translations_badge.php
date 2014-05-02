@@ -6,7 +6,7 @@
 * @package Wp_Translations_Badges
 * @author    Myles McNamara <myles@smyl.es>, fxbenard <fxb@wp-translations.org>
 * @license GPL-2.0+
-* @link http://wp-translations.org
+* @link http://smyl.es
 * @copyright 2014 Myles McNamara, fxbenard
 */
 
