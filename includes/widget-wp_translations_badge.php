@@ -169,9 +169,9 @@ class Widget_wp_translations_badge extends WP_Widget {
 					$label = (!empty($settings['caption']) ? $settings['caption'] : $settings['label']);
 					//$caption = $settings['caption'];
 
-					echo '<div class="wp_translations_badges-field-row"><label class="wp_translations_badges_widget_label" for="'.$id.'">'.$label.'</label>';
+					echo '<div class="wp_translations_badges-field-row"><p><label class="wp_translations_badges_widget_label" for="'.$id.'">'.$label.'</label></p><p>';
 					include self::get_path( dirname( __FILE__ ) ) . 'includes/field-'.$settings['type'].'.php';
-					echo '</div>';
+					echo '</p></div>';
 				}
 			echo "</div>\r\n";
 		}
