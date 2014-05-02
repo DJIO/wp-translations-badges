@@ -13,7 +13,7 @@ class Widget_wp_translations_badge extends WP_Widget {
 	public function __construct() {
 
 		// load plugin text domain
-		//add_action( 'init', array( $this, 'widget_textdomain' ) );
+		add_action( 'init', array( $this, 'widget_textdomain' ) );
 
 		parent::__construct(
 			'wp_translations_badge-id',
@@ -214,7 +214,7 @@ class Widget_wp_translations_badge extends WP_Widget {
 	 */
 	public function widget_textdomain() {
 
-		load_plugin_textdomain( 'wp_translations_badges', false, self::get_path( dirname( __FILE__ ) ) . '/languages/' );
+		load_plugin_textdomain( 'wp-translations-badges', false, self::get_path( dirname( __FILE__ ) ) . '/languages/' );
 
 	} // end widget_textdomain
 
