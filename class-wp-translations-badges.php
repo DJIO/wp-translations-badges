@@ -19,7 +19,7 @@ class Wp_Translations_Badges {
 	/**
 	 * @var     string
 	 */
-	const VERSION = '1.00';
+	const VERSION = '1.0.2';
 	/**
 	 * @var      string
 	 */
@@ -159,6 +159,27 @@ class Wp_Translations_Badges {
 		switch_to_blog( $blog_id );
 		self::single_activate();
 		restore_current_blog();
+	}
+
+	/**
+	 * Plugin Row Meta
+	 * Author Ben Huson
+	 *
+	 * Adds GitHub and translate links below the plugin description on the plugins page.
+	 * Replace references to 'my-plugin' to reflect your plugin folder and file name.
+	 * Update the GitHub Repo and Translation links.
+	 *
+	 * @param   array   $plugin_meta  Plugin meta display array.
+	 * @param   string  $plugin_file  Plugin reference.
+	 * @param   string  $status       Plugin status.
+	 * @return  array                 Plugin meta array.
+	 */
+	function add_wptb_row_meta( $plugin_meta, $plugin_file, $plugin_data, $status ) {
+		if ( 'wp-translations-badges/plugincore.php' == $plugin_file ) {
+			$plugin_meta[] = sprintf( '<a href="%1$s" title="%2$s">%3$s</a>', __( 'http://github.com/WP-Translations/wp-translations-badges/', 'wp-translations-badges'), __( 'Visit the GitHub plugin page', 'wp-translations-badges' ) , __( 'GitHub', 'wp-translations-badges' ) );
+			$plugin_meta[] = sprintf( '<a href="%1$s" title="%2$s">%3$s</a>', __( 'https://www.transifex.com/projects/p/wp-translations-badges/', 'wp-translations-badges' ), __( 'Join a Translation Team', 'wp-translations-badges' ), __( 'Translate', 'wp-translations-badges' ) );
+		}
+		return $plugin_meta;
 	}
 
 	/**
