@@ -4,7 +4,7 @@ Donate link: http://gittip.com/tripflex
 Tags: wp-translations, badges, shortcode, widget
 Requires at least: 3.8
 Tested up to: 3.9
-Stable tag: 1.0
+Stable tag: 1.1
 
 Display WP-Translations badges on your website with Shortcode or Widget
 
@@ -48,8 +48,9 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 == Frequently Asked Questions ==
 
 == Changelog ==
+
 **1.1 (April 30, 2014)**
-Forked from wordcamp-miami-badges
+Forked and Ready to Badge
 
 **1.0 (April 29, 2014)**
 First Release by tripflex

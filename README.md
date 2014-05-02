@@ -1,10 +1,11 @@
 # WP-Translations Badges #
-+ **Contributors:** tripflex, fxbenard
-+ **Donate link:** http://gittip.com/tripflex
++ **Contributors:** fxbenard, tripflex
++ **Donate link:** http://wp-translations.org/donation/
 + **Tags:** wp-translations, badges, shortcode, widget
 + **Requires at least:** 3.8
 + **Tested up to:** 3.9
-+ **Stable tag:** 1.0
++ **Stable tag:** 1.1
++ **License:** GPLv2 or later
 
 Display WP-Translations badges on your website with Shortcode or Widget
 
@@ -16,7 +17,7 @@ Badges are from http://wp-translations.org/
 
 ### Features ###
 + Alignment
-+ Attending, Speaking, Sponsor, or Volunteer badges
++ Translator, Developer, Donator, or Supporter badges
 
 ## Screenshots ##
 
@@ -38,7 +39,7 @@ You can contribute code to this plugin via GitHub: [http://github.com/wp-transla
 
 ### Support ###
 
-If you spot a bug, you can of course log it on [Github](http://github.com/wp-translations/wp-translations-badges/issues)
+If you spot a bug, you can of course log it on [Github](https://github.com/WP-Translations/wp-translations-badges/issues)
 
 Or contact me at fxb@wp-translations.org
 
@@ -56,8 +57,9 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 ## Frequently Asked Questions ##
 
 == Changelog ==
+
 **1.1 (April 30, 2014)**
-Forked from wordcamp-miami-badges
+Forked and Ready to Badge
 
 **1.0 (April 29, 2014)**
 First Release by tripflex
