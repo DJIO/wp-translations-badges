@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: WP-Translations Badges 1.00\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-translations-"
 "badges\n"
-"POT-Creation-Date: 2014-05-01 11:13:51+00:00\n"
-"PO-Revision-Date: 2014-05-01 13:15+0100\n"
+"POT-Creation-Date: 2014-05-02 12:44:34+00:00\n"
+"PO-Revision-Date: 2014-05-02 14:52+0100\n"
 "Last-Translator: fxbenard | FxB <fxb@wp-translations.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr_FR\n"
@@ -16,40 +16,52 @@ msgstr ""
 "X-Generator: Poedit 1.6.4\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: class-wp-translations-badges.php:323
+#: class-wp-translations-badges.php:179
+msgid "Visit the GitHub plugin page"
+msgstr "Aller sur GitHub"
+
+#: class-wp-translations-badges.php:180
+msgid "Join us on Transifex"
+msgstr "Rejoignez-nous sur Transifex"
+
+#: class-wp-translations-badges.php:180
+msgid "Translate"
+msgstr "Traduire"
+
+#: class-wp-translations-badges.php:344
 msgid "WP-Translations Badges Shortcode Builder"
 msgstr "WP-Translations Badges Shortcode Builder"
 
-#: class-wp-translations-badges.php:324 class-wp-translations-badges.php:492
+#: class-wp-translations-badges.php:345 class-wp-translations-badges.php:513
 msgid "Insert Shortcode"
 msgstr "Insérer le shortcode"
 
-#: class-wp-translations-badges.php:324
+#: class-wp-translations-badges.php:345
 msgid "WP-T Badges"
 msgstr "Badges WP-T"
 
-#: class-wp-translations-badges.php:343
+#: class-wp-translations-badges.php:364
 msgid "Your content goes here"
 msgstr "Votre contenu ici"
 
-#: class-wp-translations-badges.php:417
+#: class-wp-translations-badges.php:438
 #: includes/widget-wp_translations_badge.php:179
 msgid "Add Another"
 msgstr "Ajouter un autre"
 
-#: class-wp-translations-badges.php:431
+#: class-wp-translations-badges.php:452
 #: includes/widget-wp_translations_badge.php:149
 #: includes/widget-wp_translations_badge.php:185
 msgid "Remove"
 msgstr "Supprimer"
 
 #. Plugin Name of the plugin/theme
-#: class-wp-translations-badges.php:482 class-wp-translations-badges.php:486
+#: class-wp-translations-badges.php:503 class-wp-translations-badges.php:507
 #: includes/widget-wp_translations_badge.php:20
 msgid "WP-Translations Badges"
 msgstr "WP-Translations Badges"
 
-#: class-wp-translations-badges.php:482
+#: class-wp-translations-badges.php:503
 msgid "Shortcode Builder"
 msgstr "Constructeur de shortcode"
 
@@ -60,7 +72,7 @@ msgstr "Configuration"
 #: configs/wp_translations_badge-configuration.php:20
 #: configs/wp_translations_badge-settings.php:20
 msgid "Badge Type:"
-msgstr "Type de badge :"
+msgstr "Type de badge&nbsp;:"
 
 #: configs/wp_translations_badge-configuration.php:21
 #: configs/wp_translations_badge-settings.php:21
@@ -80,7 +92,7 @@ msgstr ""
 
 #: configs/wp_translations_badge-configuration.php:27
 msgid "Alignment:"
-msgstr "Alignement :"
+msgstr "Alignement&nbsp;:"
 
 #: configs/wp_translations_badge-configuration.php:28
 msgid "Alignment"
@@ -119,12 +131,18 @@ msgstr ""
 "widget"
 
 #. Author of the plugin/theme
-msgid "Myles McNamara, fxbenard"
-msgstr "Myles McNamara, fxbenard"
+msgid "fxbenard | FxB"
+msgstr "fxbenard | FxB"
 
 #. Author URI of the plugin/theme
-msgid "http://smyl.es"
-msgstr "http://smyl.es"
+msgid "http://wp-translations.org"
+msgstr "http://wp-translations.org"
+
+#~ msgid "Myles McNamara, fxbenard"
+#~ msgstr "Myles McNamara, fxbenard"
+
+#~ msgid "http://smyl.es"
+#~ msgstr "http://smyl.es"
 
 #~ msgid "Badge Type"
 #~ msgstr "Type de badge"
