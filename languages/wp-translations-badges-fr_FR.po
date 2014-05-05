@@ -3,10 +3,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WP-Translations Badges 1.00\n"
-"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-translations-"
-"badges\n"
-"POT-Creation-Date: 2014-05-05 09:21:22+00:00\n"
-"PO-Revision-Date: 2014-05-05 11:52+0100\n"
+"Report-Msgid-Bugs-To: https://wp-translations.org/\n"
+"POT-Creation-Date: 2014-05-05 15:43:03+00:00\n"
+"PO-Revision-Date: 2014-05-05 17:45+0100\n"
 "Last-Translator: fxbenard | FxB <fxb@wp-translations.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr_FR\n"
@@ -56,8 +55,6 @@ msgid "Remove"
 msgstr "Supprimer"
 
 #. Plugin Name of the plugin/theme
-#: class-wp-translations-badges.php:503 class-wp-translations-badges.php:507
-#: includes/widget-wp_translations_badge.php:20
 msgid "WP-Translations Badges"
 msgstr "WP-Translations Badges"
 
@@ -97,12 +94,6 @@ msgstr "Alignement&nbsp;:"
 #: configs/wp_translations_badge-configuration.php:28
 msgid "Alignment"
 msgstr "Alignement"
-
-#. translators: Important only translate Uppercase Words
-#: configs/wp_translations_badge-configuration.php:31
-msgctxt "important only translate Uppercase Words"
-msgid "*none||None,left||Left,center||Center,right||Right"
-msgstr "*none||Aucun,left||Gauche,center||Centré,right||Droite"
 
 #: configs/wp_translations_badge-settings.php:15
 msgid "Settings"
@@ -153,6 +144,12 @@ msgstr "fxbenard | FxB"
 #. Author URI of the plugin/theme
 msgid "http://wp-translations.org"
 msgstr "http://wp-translations.org"
+
+#. translators: Important only translate Uppercase Words
+#: configs/wp_translations_badge-configuration.php:31
+msgctxt "important only translate Uppercase Words"
+msgid "*none||None,left||Left,center||Center,right||Right"
+msgstr "*none||Aucun,left||Gauche,center||Centré,right||Droite"
 
 #~ msgid "Myles McNamara, fxbenard"
 #~ msgstr "Myles McNamara, fxbenard"
