@@ -10,19 +10,20 @@
 	<?php
 		if($badge_type == 'translator'):
 	?>
-			<a href="http://wp-translations.org/"><img src="http://wp-translations.org/wp-content/uploads/2014/05/wp_t_badge_translator.png" alt="I am a Translator in WP-Translations Community" title="I am a Translator in WP-Translations Community" width="150" height="134" /></a>
+     <a href="http://wp-translations.org/"><img src="<?php echo plugins_url( 'assets/images/wp_t_badge_translator.png', dirname(__FILE__) );?>" alt="<?php _e( 'I am a Translator in WP-Translations Community', 'wp-translations-badges' );?>" title="<?php _e( 'I am a Translator in WP-Translations Community', 'wp-translations-badges' );?>" /></a>
+
 	<?php
 		elseif($badge_type == 'developer'):
 	?>
-			<a href="http://wp-translations.org/"><img src="http://wp-translations.org/wp-content/uploads/2014/05/wp_t_badge_developer.png" alt="I Use WP-Translations Community for my i18n" title="I Use WP-Translations Community for my i18n" width="150" height="134" /></a>
+    <a href="http://wp-translations.org/"><img src="<?php echo plugins_url( 'assets/images/wp_t_badge_developer.png', dirname(__FILE__) );?>" alt="<?php _e( 'I Use WP-Translations Community for my i18n', 'wp-translations-badges' );?>" title="<?php _e( 'I Use WP-Translations Community for my i18n', 'wp-translations-badges' );?>" width="150" height="134" /></a>
 	<?php
 		elseif($badge_type == 'donator'):
 	?>
-	<a href="http://wp-translations.org/"><img src="http://wp-translations.org/wp-content/uploads/2014/05/wp_t_badge_donator.png" alt="I am a Proud Donator of WP-Translations Community" title="I am a Proud Donator of WP-Translations Community" width="150" height="134" /></a>
+    <a href="http://wp-translations.org/"><img src="<?php echo plugins_url( 'assets/images/wp_t_badge_donator.png', dirname(__FILE__) );?>" alt="<?php _e( 'I am a Proud Donator of WP-Translations Community', 'wp-translations-badges' );?>" title="<?php _e( 'I am a Proud Donator of WP-Translations Community', 'wp-translations-badges' );?>" width="150" height="134" /></a>
 	<?php
 		elseif($badge_type == 'supporter'):
 	?>
-			<a href="http://wp-translations.org/"><img src="http://wp-translations.org/wp-content/uploads/2014/05/wp_t_badge_supporter.png" alt="I am a big Fan of WP-Translations Community" title="I am a big Fan of WP-Translations Community" width="150" height="134" /></a>
+    <a href="http://wp-translations.org/"><img src="<?php echo plugins_url( 'assets/images/wp_t_badge_supporter.png', dirname(__FILE__) );?>" alt="<?php _e( 'I am a big Fan of WP-Translations Community', 'wp-translations-badges' );?>" title="<?php _e( 'I am a big Fan of WP-Translations Community', 'wp-translations-badges' );?>" width="150" height="134" /></a>
 	<?php
 		endif;
 	?>
