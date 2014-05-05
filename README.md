@@ -28,7 +28,7 @@ Badges are from http://wp-translations.org/
 ![](http://wp-translations.org/wp-content/uploads/img/wp-translations-badges-shortcode-button.png)
 
 ### Shortcode Configuration ###
-![](http://wp-translations.org/img/wp-translations-badges-insert-shortcode.png)
+![](http://wp-translations.org/wp-content/uploads/img/wp-translations-badges-insert-shortcode.png)
 
 ### Badge Example ###
 ![](http://wp-translations.org/wp-content/uploads/img/wp_t_badge_supporter.png)
@@ -37,7 +37,7 @@ Badges are from http://wp-translations.org/
 
 You can contribute to the translation by joining one of our Team over our Transifex Organization [WP-Translations](https://www.transifex.com/organization/wp-translations)
 
-You can contribute code to this plugin via GitHub: [https://github.com/WP-Translations/wp-translations-badges](https://github.com/WP-Translations/wp-translations-badges)
+You can contribute code to this plugin via [GitHub](https://github.com/WP-Translations/wp-translations-badges)
 
 ### Support ###
 
@@ -54,6 +54,9 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 **Usage**
 1. Add Widget or Shortcode
+
+## Special thanks ##
+[Myles McNamara] https://github.com/tripflex
 
 ## Changelog ##
 
