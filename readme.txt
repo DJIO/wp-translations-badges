@@ -1,7 +1,7 @@
 = WP-Translations Badges =
 Contributors: tripflex, fxbenard
-Donate link: http://gittip.com/tripflex
-Tags: wp-translations, badges, shortcode, widget
+Donate link: http://wp-translations.org/donation/
+Tags: wp-translations, badges, shortcode, widget, i18n
 Requires at least: 3.8
 Tested up to: 3.9
 Stable tag: 1.0.2
@@ -13,40 +13,32 @@ Display WP-Translations badges on your website with Shortcode or Widget
 
 Display WP-Translations badges on your website with Shortcode or Widget
 
-Badges are extracted from http://wp-translations.org/
-
 = Features =
 * Alignment
-* Attending, Speaking, Sponsor, or Volunteer badges
+* Translator, Developer, Donator, and Supporter badges
 
 === Contributing and reporting bugs ===
 
-You can contribute code to this plugin via GitHub: [http://github.com/wp-translations/wp-translations-badges](http://github.com/wp-translations/wp-translations-badges)
+You can contribute to the translation by joining one of our Team over our Transifex Organization [WP-Translations](https://www.transifex.com/organization/wp-translations)
+
+You can contribute code to this plugin via GitHub: [https://github.com/WP-Translations/wp-translations-badges](https://github.com/WP-Translations/wp-translations-badges)
 
 = Support =
 
-If you spot a bug, you can of course log it on [Github](http://github.com/wp-translations/wp-translations-badges/issues)
+If you spot a bug, you can of course log it on [Github](https://github.com/WP-Translations/wp-translations-badges/issues)
 
 Or contact me at fxb@wp-translations.org
 
-== Screenshots ==
-
-1. Widget Configuration
-2. Shortcode Button
-3. Shortcode Configuration
-4. Badge Example
-
 == Installation ==
 
-Install directly from Wordpress installation.  Go to Plugins and then search for "WP-Translations Badges"
+* From your WordPress Website *
+Go to Plugins and then search for "WP-Translations Badges"
 
 * Manual Installation *
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
 
 * Usage *
 1. Add Widget or Shortcode
-
-== Frequently Asked Questions ==
 
 == Changelog ==
 
