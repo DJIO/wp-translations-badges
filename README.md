@@ -13,7 +13,7 @@ Display WP-Translations badges on your website with Shortcode or Widget
 
 Display WP-Translations badges on your website with Shortcode or Widget
 
-Badges are from http://wp-translations.org/
+More badges to come...
 
 ### Features ###
 + Alignment
@@ -56,7 +56,7 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 1. Add Widget or Shortcode
 
 ## Special thanks ##
-[Myles McNamara] https://github.com/tripflex
+[Myles McNamara](https://github.com/tripflex)
 
 ## Changelog ##
 
