@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[wp-translations-badges.wp-translations-badges]
+file_filter = languages/wp-translations-badges-<lang>.po
+source_file = languages/wp-translations-badges.pot
+source_lang = en_US
+type = PO
