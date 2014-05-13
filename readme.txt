@@ -1,5 +1,5 @@
 = WP-Translations Badges =
-Contributors: tripflex, fxbenard
+Contributors: fxbenard, tripflex
 Donate link: http://wp-translations.org/donation/
 Tags: wp-translations, badges, shortcode, widget, i18n
 Requires at least: 3.8
@@ -15,13 +15,16 @@ Display WP-Translations badges on your website with Shortcode or Widget
 
 = Features =
 * Alignment
-* Translator, Developer, Donator, and Supporter badges
+* Translator, Developer, Donor, and Supporter badges
 
 === Contributing and reporting bugs ===
 
-You can contribute to the translation by joining one of our Team over our Transifex Organization [WP-Translations](https://www.transifex.com/organization/wp-translations)
+You want to translate, help, or improve a translation.
+Join our WP-Translations Community at [WP-Translations](https://www.transifex.com/organization/wp-translations)
 
-You can contribute code to this plugin via GitHub: [https://github.com/WP-Translations/wp-translations-badges](https://github.com/WP-Translations/wp-translations-badges)
+More info at http://wp-translations.org/
+
+You want to contribute to the code, it's on GitHub(https://github.com/WP-Translations/wp-translations-badges)
 
 = Support =
 
@@ -35,7 +38,7 @@ Or contact me at fxb@wp-translations.org
 Go to Plugins and then search for "WP-Translations Badges"
 
 * Manual Installation *
-Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
+Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from the Plugins page.
 
 * Usage *
 1. Add Widget or Shortcode
