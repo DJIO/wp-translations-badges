@@ -1,20 +1,20 @@
 # Copyright (C) 2014 WP-Translations Badges
 # This file is distributed under the same license as the WP-Translations Badges package.
 # Translators:
-# deblynprado, 2014
+# mapazarbasi <mail@abdullahpazarbasi.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: WP-Translations Badges\n"
 "Report-Msgid-Bugs-To: https://wp-translations.org/\n"
 "POT-Creation-Date: 2014-05-12 15:29:16+00:00\n"
 "PO-Revision-Date: 2014-05-15 16:51+0000\n"
-"Last-Translator: deblynprado\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/wp-translations-badges/language/pt_BR/)\n"
+"Last-Translator: mapazarbasi <mail@abdullahpazarbasi.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/wp-translations-badges/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Country: UNITED STATES\n"
 "X-Poedit-Keywordslist: __;_e;__ngettext:1,2;_n:1,2;__ngettext_  noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
@@ -24,64 +24,64 @@ msgstr ""
 
 #: class-wp-translations-badges.php:179
 msgid "Visit the GitHub plugin page"
-msgstr "Visite a página do plugin no Github"
+msgstr "GitHub eklenti sayfasını ziyaret et"
 
 #: class-wp-translations-badges.php:180
 msgid "Join us on Transifex"
-msgstr "Junte-se a nós no Transifex"
+msgstr "Transifex'te bize katıl"
 
 #: class-wp-translations-badges.php:180
 msgid "Translate"
-msgstr "Traduzir"
+msgstr "Çeviri Yap"
 
 #: class-wp-translations-badges.php:344
 msgid "WP-Translations Badges Shortcode Builder"
-msgstr "Construtor de Shortcode para os Badges do WP-Translations"
+msgstr "WP-Translations Badges Kısakod Üreteci"
 
 #: class-wp-translations-badges.php:345 class-wp-translations-badges.php:513
 msgid "Insert Shortcode"
-msgstr "Inserir Shortcode"
+msgstr "Kısakod Ekle"
 
 #: class-wp-translations-badges.php:345
 msgid "WP-T Badges"
-msgstr "Badges do WP-T"
+msgstr "WP-T Rozetleri"
 
 #: class-wp-translations-badges.php:364
 msgid "Your content goes here"
-msgstr "Seu conteúdo aqui"
+msgstr "İçeriğinz buraya gelecek"
 
 #: class-wp-translations-badges.php:438
 #: includes/widget-wp_translations_badge.php:179
 msgid "Add Another"
-msgstr "Adicionar Outro"
+msgstr "Başka Ekle"
 
 #: class-wp-translations-badges.php:452
 #: includes/widget-wp_translations_badge.php:149
 #: includes/widget-wp_translations_badge.php:185
 msgid "Remove"
-msgstr "Remover"
+msgstr "Kaldır"
 
 #. Plugin Name of the plugin/theme
 msgid "WP-Translations Badges"
-msgstr "Badges do WP-Translations"
+msgstr "WP-Translations Badges"
 
 #: class-wp-translations-badges.php:503
 msgid "Shortcode Builder"
-msgstr "Construtor de Shortcode"
+msgstr "Kısakod Üreteci"
 
 #: configs/wp_translations_badge-configuration.php:15
 msgid "Configuration"
-msgstr "Configuração"
+msgstr "Konfigürasyon"
 
 #: configs/wp_translations_badge-configuration.php:20
 #: configs/wp_translations_badge-settings.php:20
 msgid "Badge Type:"
-msgstr "Tipo do Badge"
+msgstr "Rozet Tipi:"
 
 #: configs/wp_translations_badge-configuration.php:21
 #: configs/wp_translations_badge-settings.php:21
 msgid "Type of badge to display"
-msgstr "Tipo de badge que será mostrado"
+msgstr "Görüntülenecek rozet tipi"
 
 #. translators: Important don't translate translator, developer, donor,
 #. supporter
@@ -90,47 +90,47 @@ msgstr "Tipo de badge que será mostrado"
 msgid ""
 "*translator||I'm Translating,developer||I'm Developing,donor||I'm a "
 "Donor,supporter||I'm a Supporter"
-msgstr "*tradutor||Eu estou traduzindo,developer||Eu estou desenvolvendo,donor||Eu sou um doador,supporter||Eu auxilio"
+msgstr "*çevirmen||Çeviriyorum,geliştirici||Geliştiriyorum,bağışçı||Bir Bağışçıyım,destekçi||Bir Destekçiyim"
 
 #: configs/wp_translations_badge-configuration.php:27
 msgid "Alignment:"
-msgstr "Alinhamento:"
+msgstr "Hizalama:"
 
 #: configs/wp_translations_badge-configuration.php:28
 msgid "Alignment"
-msgstr "Alinhamento"
+msgstr "Hizalama"
 
 #: configs/wp_translations_badge-settings.php:15
 msgid "Settings"
-msgstr "Configurações"
+msgstr "Ayarlar"
 
 #: includes/element-wp_translations_badge.php:13
 msgid "I am a Translator in WP-Translations Community"
-msgstr "Eu sou um Tradutor na Comunidade WP-Translations"
+msgstr "WP-Translations Topluluğunda bir çevirmenim"
 
 #: includes/element-wp_translations_badge.php:18
 msgid "I Use WP-Translations Community for my i18n"
-msgstr "Eu uso a Comunidade WP-Translations para meu i18n"
+msgstr "WP-Translations Topluluğunu i18n 'im için kullanırım."
 
 #: includes/element-wp_translations_badge.php:22
 msgid "I am a Proud Donor of WP-Translations Community"
-msgstr "Eu sou orgulhosamente o doador de uma Comunidade do WP-Translations"
+msgstr "WP-Translations Topluluğunun saygın bir bağışçısıyım"
 
 #: includes/element-wp_translations_badge.php:26
 msgid "I am a big Fan of WP-Translations Community"
-msgstr "Eu sou um grande Fã da Comunidade WP-Translations"
+msgstr "WP-Translations Topluluğunun büyük bir hayranıyım"
 
 #: includes/field-onoff.php:3
 msgid "On"
-msgstr "ligado"
+msgstr "Açık"
 
 #: includes/field-onoff.php:3
 msgid "Off"
-msgstr "desligado"
+msgstr "Kapalı"
 
 #: includes/widget-wp_translations_badge.php:22
 msgid "Display a WP-Translations Badge."
-msgstr "Mostrar o Badge do WP-Translate"
+msgstr "Bir WP-Translations Rozeti Görüntüle."
 
 #. Plugin URI of the plugin/theme
 msgid "http://github.com/wp-translations/wp-translations-badges"
@@ -138,11 +138,11 @@ msgstr "http://github.com/wp-translations/wp-translations-badges"
 
 #. Description of the plugin/theme
 msgid "Display WP-Translations badges on your site with Shortcode or Widget"
-msgstr "Mostrar badges do WP-Translations no seu site através de Shortcode ou Widget"
+msgstr "WP-Translations rozetlerini sitenizde kısakod veya bileşen ile görüntüleyin"
 
 #. Author of the plugin/theme
 msgid "fxbenard | FxB"
-msgstr "fxbenard | FxB"
+msgstr "fxbenard | FxB (çeviri mapazarbasi)"
 
 #. Author URI of the plugin/theme
 msgid "http://wp-translations.org"
@@ -152,4 +152,4 @@ msgstr "http://wp-translations.org"
 #: configs/wp_translations_badge-configuration.php:31
 msgctxt "important only translate Uppercase Words"
 msgid "*none||None,left||Left,center||Center,right||Right"
-msgstr "*none||Nenhum,left||Esquerda,center||Centro,right||Direita"
+msgstr "*hiçbiri||Hiçbiri,sol||Sol,orta||Orta,sağ||Sağ"
